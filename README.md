@@ -1,4 +1,4 @@
-# meuaplicativo
+# PetGram
 Aplicativo desenvolvido na Semana OminiStack da Rocketseat
 
 O aplicativo foi desenvolvido durante uma semana nas aulas da RocketSeat, na semana Oministack.
